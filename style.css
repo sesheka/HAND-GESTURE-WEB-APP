@@ -1,0 +1,34 @@
+body
+{
+  color: white;
+  background: black;
+}
+span
+{
+  font-size: 30px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+#result_Guester_name ,#result_Guester_name2  
+{
+  color: black;
+  font-size: 40px;
+}
+.Guester_name
+{
+  font-size: 40px;
+}
+.Guester
+{
+  font-size:48px;
+}
